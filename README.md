@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+# Weather
+
+[link](https://serheybernatovich.github.io/WeatherApp/)
+
+## Author Serhii Bernatovich
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
